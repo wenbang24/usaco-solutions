@@ -1,5 +1,5 @@
 # My USACO Solutions
-:(
+not very good
 ## December 2023, Bronze Level
 I have no idea what I'm doing yet
 
