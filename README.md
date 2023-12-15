@@ -6,3 +6,5 @@ I have no idea what I'm doing yet
 Candy Cane Feast: `*xxxxxxxxxtttt`
 
 Cowntact Tracing 2: `****x*x****x`
+
+Farmer John Actually Farms: didn't attempt 💀
