@@ -9,6 +9,8 @@ Cowntact Tracing 2: `****x*x****x`
 
 Farmer John Actually Farms: didn't attempt 💀
 
+### Points: 233 (rank 5179)
+
 
 ## Janurary 2023, Bronze Level
 Got promoted to silver 🎉🎉!
