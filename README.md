@@ -13,7 +13,7 @@ Farmer John Actually Farms: didn't attempt 💀
 
 
 ## Janurary 2023, Bronze Level
-Got promoted to silver 🎉🎉!
+Got promoted to silver 🎉🎉 (hopefully, according to my calculations i did)!
 
 Majority Opinion: `***************`
 
