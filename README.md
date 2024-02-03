@@ -1,5 +1,5 @@
 # My USACO Solutions
-not very good
+with some AIO (Australian Informatics Olympiad) ones too :)
 ## December 2023, Bronze Level
 I have no idea what I'm doing yet 😭
 
