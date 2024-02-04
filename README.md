@@ -13,10 +13,12 @@ Farmer John Actually Farms: didn't attempt 💀
 
 
 ## Janurary 2023, Bronze Level
-Got promoted to silver 🎉🎉 (hopefully, according to my calculations i did)!
+Got promoted to silver 🎉🎉!
 
 Majority Opinion: `***************`
 
 Cannonball: `**t**********t***ttt`
 
 Balancing Bacteria: `**********ttttt`
+
+#### Points: 779 (rank 2234)
