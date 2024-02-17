@@ -25,8 +25,9 @@ Balancing Bacteria: `**********ttttt`
 
 
 ## February 2024, Silver Level
-silver is so hard 💀💀💀
+silver is so hard 💀💀💀 i did worse than my first bronze attempt
 
-did not sumbit any solutions 😭 (still have what i tried in the repo tho)
+Did not sumbit any solutions 😭
+(my attempts are in the repo tho)
 
 #### Points: 0 (no rank)
