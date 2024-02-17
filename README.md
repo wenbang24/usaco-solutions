@@ -1,7 +1,7 @@
 # My USACO Solutions
 with some AIO (Australian Informatics Olympiad) ones too :)
 ## December 2023, Bronze Level
-I have no idea what I'm doing yet 😭\
+I have no idea what I'm doing yet 😭<br>
 
 Candy Cane Feast: `*xxxxxxxxxtttt`
 
@@ -14,7 +14,7 @@ Farmer John Actually Farms: didn't attempt 💀
 ---
 
 ## Janurary 2024, Bronze Level
-Got promoted to silver 🎉🎉!\
+Got promoted to silver 🎉🎉!<br>
 
 Majority Opinion: `***************`
 
@@ -27,7 +27,7 @@ Balancing Bacteria: `**********ttttt`
 ---
 
 ## February 2024, Silver Level
-silver is so hard 💀💀💀 i did worse than my first bronze attempt\
+silver is so hard 💀💀💀 i did worse than my first bronze attempt<br>
 
 Did not sumbit any solutions 😭
 (my attempts are in the repo tho)
