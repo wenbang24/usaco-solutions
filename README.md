@@ -1,5 +1,7 @@
 # My USACO Solutions
-with some AIO (Australian Informatics Olympiad) ones too :)
+with some AIO (Australian Informatics Olympiad) ones too :)<br>
+if you wanna figure out why some of these dont work go ahead but its all pretty messy so good luck<br>
+if you do figure it out pls tell me :)
 ## December 2023, Bronze Level
 I have no idea what I'm doing yet 😭<br><br>
 
