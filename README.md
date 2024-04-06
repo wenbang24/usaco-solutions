@@ -35,3 +35,16 @@ Did not sumbit any solutions 😭
 (my attempts are in the repo tho)
 
 #### Points: 0 (no rank)
+
+---
+
+## March 2024, Silver Level
+slightly better than last month, still pretty bad 😭<br><br>
+
+Bessie's Interview: `*tttttttttttttttttttt`
+
+Painting Fence Posts: didn't submit 💀
+
+The 'Winning' Gene: `****tttttttttttt`
+
+#### Points: 67 (rank 814)
