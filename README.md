@@ -48,3 +48,30 @@ Painting Fence Posts: didn't submit 💀
 The 'Winning' Gene: `****tttttttttttt`
 
 #### Points: 67 (rank 814)
+
+---
+
+## December 2024, Silver Level
+i don't want to talk about it
+
+#### Points: 533 (rank 1073)
+
+---
+
+## January 2025, Silver Level
+i still don't want to talk about it
+
+#### Points: 200 (rank 1188)
+
+---
+
+## February 2025, Silver Level
+will upload solutions later
+
+The Best Lineup: `********tttttttttt`
+
+Vocabulary Quiz: `******************`
+
+Transforming Pairs: `************`
+
+#### Points: 803 (from my own calculations)
