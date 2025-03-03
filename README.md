@@ -66,7 +66,7 @@ i still don't want to talk about it
 ---
 
 ## February 2025, Silver Level
-will upload solutions later
+Got promoted to gold 🎉🎉!<br><br>
 
 The Best Lineup: `********tttttttttt`
 
@@ -74,4 +74,4 @@ Vocabulary Quiz: `******************`
 
 Transforming Pairs: `************`
 
-#### Points: 803 (from my own calculations)
+#### Points: 804 (rank 487)
