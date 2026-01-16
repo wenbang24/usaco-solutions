@@ -75,3 +75,16 @@ Vocabulary Quiz: `******************`
 Transforming Pairs: `************`
 
 #### Points: 804 (rank 487)
+
+---
+
+## January 2026, Gold Level
+Got promoted to plat 🎉🎉!<br><br>
+
+COW Traversals: AC
+
+Milk Buckets: AC
+
+Supervision: AC
+
+#### Points: 1000
